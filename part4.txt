@@ -1,0 +1,3 @@
+Create a class that implements interface java.lang.Iterable. The class should parse the text file and return sentences. The method 'iterator' of the given class should return the iterator object - an instance of the inner class. The method Iterator#remove should throw an exception UnsupportedOperationException.
+You are not allowed to use the existing implementations of the iterators from the container classes!
+Note. Write a regular expression that 'cuts' sentences from the text, then use the Matcher object when implementing the methods of the Iterator interface.

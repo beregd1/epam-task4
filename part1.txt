@@ -1,1 +1,1 @@
-Create a class that displays the content of the text file to console, deleting the first two characters of each word with the length of 4 and more characters (example: original 'qwerty', new 'erty'). The size of the file should not be more than 1Kb (several lines are enough). A 'word' should be considered a continuous sequence of Cyrillic or Latin characters.
+Qwerty
